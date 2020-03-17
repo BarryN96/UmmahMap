@@ -1,5 +1,5 @@
 
-? Fact(4)
+MessageBox( Transform( Fact(7) ),0+64, "Berechnung fertig ...")
 
 FUNCTION Fact(n AS Integer) AS Integer
 LOCAL lnNeu
